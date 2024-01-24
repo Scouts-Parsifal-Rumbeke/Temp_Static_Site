@@ -1,4 +1,4 @@
-name: "Dev (branch: main) deploy to OVH"
+name: "Deploy main-branch to OVH: `scouts`"
 
 on:
   push:
